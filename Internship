@@ -17,13 +17,7 @@
       <div><input type="email" name="Myemail" id="email" required /></div>
 
       <div>
-        Message:<br /><textarea
-          name="MyText"
-          id=""
-          cols="0"
-          rows="0"
-          required
-        ></textarea>
+        Message:<br /><textarea name="MyText" id="" cols="0" rows="0" required></textarea>
       </div>
       <button type="submit">Send</button>
     </form>
